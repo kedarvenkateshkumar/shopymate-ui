@@ -212,12 +212,29 @@ filtering, cart, checkout, order history, and admin access.
 Add screenshots of the home page, product listing, product details,
 cart, order history, and admin dashboard. For example:
 
-``` md
-![Home page](docs/screenshots/Home.png)
-![Product Card](docs/screenshots/productCard.png)
-![Cart](docs/screenshots/cart.png)
-![Orders](docs/screenshots/myOrders.png)
-```
+
+## Screenshots
+
+### Home Page
+![ShopPlus Home Page](docs/screenshots/Home.png)
+
+### Product Listing
+![Product Listing](docs/screenshots/productCard.png)
+
+### Shopping Cart
+![Shopping Cart](docs/screenshots/cart.png)
+
+### Order History
+![My Orders](docs/screenshots/myOrders_.png)
+### Order History
+![Admin Dashboard](docs/screenshots/admin-Dashboard.png)
+### Order History
+![Admin Product Management ](docs/screenshots/admin-product-management.png)
+### Order History
+![Admin Inventory Management ](docs/screenshots/admin-inventory-management.png)
+### Order History
+![Admin Order Management ](docs/screenshots/admin-order-management.png)
+
 
 ## Future Improvements
 
