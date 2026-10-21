@@ -226,13 +226,17 @@ cart, order history, and admin dashboard. For example:
 
 ### Order History
 ![My Orders](docs/screenshots/myOrders_.png)
-### Order History
+
+### Admin Dashboard
 ![Admin Dashboard](docs/screenshots/admin-Dashboard.png)
-### Order History
+
+### Admin Product Management
 ![Admin Product Management ](docs/screenshots/admin-product-management.png)
-### Order History
+
+### Admin Inventory Management
 ![Admin Inventory Management ](docs/screenshots/admin-inventory-management.png)
-### Order History
+
+### Admin Order Managenemt
 ![Admin Order Management ](docs/screenshots/admin-order-management.png)
 
 
