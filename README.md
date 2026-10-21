@@ -87,8 +87,7 @@ Replace the placeholders with your actual GitHub repository URL and
 folder name:
 
 ``` bash
-git clone <YOUR-FRONTEND-REPOSITORY-URL>
-cd <YOUR-FRONTEND-FOLDER>
+git clone https://github.com/kedarvenkateshkumar/shopymate-ui.git
 ```
 
 ### 2. Install dependencies
@@ -214,8 +213,10 @@ Add screenshots of the home page, product listing, product details,
 cart, order history, and admin dashboard. For example:
 
 ``` md
-![Home page](docs/screenshots/home.png)
-![Product listing](docs/screenshots/products.png)
+![Home page](docs/screenshots/Home.png)
+![Product Card](docs/screenshots/productCard.png)
+![Cart](docs/screenshots/cart.png)
+![Orders](docs/screenshots/myOrders.png)
 ```
 
 ## Future Improvements
