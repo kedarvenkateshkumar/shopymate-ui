@@ -252,8 +252,7 @@ improvements.
 **Your Name**
 
 -   GitHub: [Your GitHub profile](https://github.com/kedarvenkateshkumar)
--   LinkedIn: [Your LinkedIn
-    profile](https://www.linkedin.com/in/venkatesh-veeramallu/)
+-   LinkedIn: [Your LinkedInprofile](https://www.linkedin.com/in/venkatesh-veeramallu-820431322/?isSelfProfile=true)
 
 ------------------------------------------------------------------------
 
